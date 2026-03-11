@@ -1,6 +1,6 @@
 # ☕ Curso Java Completo - Desafios
 
-Este repositório contém os exercícios e desafios que estou resolvendo durante o curso **Java COMPLETO - Programação Orientada a Objetos + Projetos**, ministrado pelo professor **Nelio Alves**. :contentReference[oaicite:0]{index=0}
+Este repositório contém os exercícios e desafios que estou resolvendo durante o curso **Java COMPLETO - Programação Orientada a Objetos + Projetos**, ministrado pelo professor **Nelio Alves**. 
 
 A ideia é registrar minha evolução na linguagem Java e revisar conceitos importantes de programação.
 
@@ -31,5 +31,5 @@ Durante o curso são abordados diversos temas fundamentais, como:
 - Coleções
 - Tratamento de exceções
 
-O curso tem como objetivo ensinar Java do básico ao avançado, incluindo conceitos de orientação a objetos e desenvolvimento de aplicações. :contentReference[oaicite:1]{index=1}
+O curso tem como objetivo ensinar Java do básico ao avançado, incluindo conceitos de orientação a objetos e desenvolvimento de aplicações.
 
