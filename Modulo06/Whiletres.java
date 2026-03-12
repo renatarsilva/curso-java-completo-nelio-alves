@@ -1,4 +1,4 @@
-package modulo07;
+package Modulo06;
 
 import java.util.Scanner;
 

@@ -1,20 +1,17 @@
-package modulo07;
-
+package Modulo06;
 import java.util.Scanner;
-
-public class While {
+public class Whiledois {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite um numero");
         int x = sc.nextInt();
 
-        int soma = 0;
-        while (x != 0 ){
-            soma += x;
+        while(x != 100){
+            System.out.println("Digite outro valor");
             x = sc.nextInt();
         }
-        System.out.println(soma);
+        System.out.println("Você acertou!!");
         sc.close();
     }
 }
