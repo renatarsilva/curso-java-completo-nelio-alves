@@ -1,10 +1,10 @@
-package modulo08semPOO;
+package modulo08semPOO.application;
 
 import modulo08semPOO.entities.Triangle;
 
 import java.util.Scanner;
 
-public class SemPOO {
+public class Program {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
